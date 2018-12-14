@@ -1,0 +1,9 @@
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\bin\Debug\Class.cs
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe.config
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.pdb
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csprojAssemblyReference.cache
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe.config
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csproj.CoreCompileInputs.cache
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe
+D:\WAT\JFK\PROJEKT_LAB_2\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.pdb
